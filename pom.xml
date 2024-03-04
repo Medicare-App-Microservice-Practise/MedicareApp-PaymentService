@@ -8,12 +8,12 @@
 		<version>2.7.18</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.medicare.admin</groupId>
-	<artifactId>MedicareApp-AdminService</artifactId>
+	<groupId>com.medicare.paymentservice</groupId>
+	<artifactId>MedicareApp-PaymentService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>MedicareApp-AdminService</name>
-	<description>Admin Service for MedicareApp</description>
+	<name>MedicareApp-PaymentService</name>
+	<description>Payment Service for MedicareApp</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
